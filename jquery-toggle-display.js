@@ -16,7 +16,7 @@
         return false;
       }, this));
     });
-  }
+  };
 
   $(function() {
     $(".toggle_display").toggle_display();
