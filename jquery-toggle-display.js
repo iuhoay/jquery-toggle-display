@@ -1,3 +1,12 @@
+/*
+ *
+ * jQuery toggle display v 0.1
+ * https://github.com/iuhoay/jquery-toggle-display
+ *
+ * Copyright 2013 iuhoay
+ * released under the MIT license
+ *
+ */
 ;(function($) {
 
   $.fn.toggle_display = function() {
